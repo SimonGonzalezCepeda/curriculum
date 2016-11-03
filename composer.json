@@ -10,5 +10,8 @@
             "name": "SimonGonzalezCepeda",
             "email": "simongonzalez@iesebre.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4" : {"Scool\\Curriculum\\":"src"}
+    }
 }
