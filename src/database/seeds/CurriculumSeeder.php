@@ -1,6 +1,6 @@
 <?php
 
-namespace Scool\Curriculum\Database;
+namespace Scool\Curriculum\Database\Seeds;
 
 use Illuminate\Database\Seeder;
 
