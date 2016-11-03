@@ -12,8 +12,6 @@
         }
     ],
     "autoload": {
-        "psr-4" : {
-            "Scool\\Curriculum\\":"src",
-            "Scool\\Curriculum\\Database\\":"database"}
+        "psr-4" : {"Scool\\Curriculum\\":"src"}
     }
 }
